@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/webhook",
+            "destination": "https://studio.pucho.ai/api/v1/webhooks"
+        }
+    ]
+}
